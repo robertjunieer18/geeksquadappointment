@@ -5,7 +5,7 @@ Book Your Geek Squad Appointment Online | Fast & Easy
 If you're looking for reliable tech support, scheduling your **Geek Squad appointment online** is one of the fastest and easiest ways to get expert help. Whether your laptop is acting up, your smart TV needs installation, or you're dealing with virus issues, Geek Squad is a trusted name when it comes to tech repair and home service.
 
 
-.. image:: 
+.. image:: book appointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
